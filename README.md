@@ -8,8 +8,6 @@ My name is Abderrahmen Lahmedi, I love building and breaking things :joy: also I
 - 🤔 I’m looking for help in understanding Microservices design patterns and data management in a large & complex app.
 - 💬 Ask me about anything in the US stock market,Advanced analysis (Math) and Programming.
 - 📫 How to reach me: abderrahmen.lahmedigl@gmail.com
-<!--
-**Abderrahmenla/Abderrahmenla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Connect with me:
 
@@ -67,3 +65,7 @@ My name is Abderrahmen Lahmedi, I love building and breaking things :joy: also I
 [twitter]: https://twitter.com/AbderrahmenLah1
 [linkedin]: https://www.linkedin.com/in/abderrahmen-lahmedi
 [githubhomepage]: https://github.com/Abderrahmenla 
+
+<!--
+**Abderrahmenla/Abderrahmenla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
