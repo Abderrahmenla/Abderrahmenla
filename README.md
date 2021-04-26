@@ -2,9 +2,8 @@
 
 My name is Abderrahmen Lahmedi, I love building and breaking things :joy: also I'm facinated about building complex apps :
 
-- 🔭 I’m currently working on Building large/scalable web apps based on Microservices architecture.
+- 🔭 I’m currently working on Building large/scalable web apps based on Microservice architecture.
 - 🌱 I’m currently learning Golang and Typescript
-- 🌱 I’m currently learning how to develop large & complex web app built on top of microservices architecture
 - 📫 How to reach me: abderrahmen.lahmedigl@gmail.com
 
 ### Connect with me:
