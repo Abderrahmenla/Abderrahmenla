@@ -1,6 +1,6 @@
 
 
-My name is Abderrahmen Lahmedi, I love building and breaking things :joy: also I'm facinated about building complex apps :
+My name is Abderrahmen Lahmedi, I love building and breaking through things :joy: also I'm facinated about building complex apps :
 
 - 🔭 I’m currently working on Building large/scalable web apps based on Microservice architecture.
 - 🌱 I’m currently learning Golang and Typescript
