@@ -7,7 +7,7 @@ My name is Abderrahmen Lahmedi, I love building and breaking through things :joy
 - 📫 How to reach me: abderrahmen.lahmedigl@gmail.com
 
 contributor to open source projects : 
-vitejs,swagger-autogen etc.
+expressJS,viteJS,swagger-autogen etc.
 
 ### Connect with me:
 
