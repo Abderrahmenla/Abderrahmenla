@@ -1,6 +1,6 @@
 
 
-My name is Abderrahmen Lahmedi, I love building and breaking through things :joy: also I'm facinated about building complex apps :
+My name is Abderrahmen Lahmedi, I love building and breaking through things :joy: also I'm interested in developing complex web apps :
 
 - 🔭 I’m currently working on Building large,complex,scalable and optimized web apps.
 - 🌱 I’m currently learning penetration testing on web apps
