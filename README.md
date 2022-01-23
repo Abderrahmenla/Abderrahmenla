@@ -25,7 +25,7 @@ expressJS,viteJS,swagger-autogen etc.
   <img src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" alt="gatsbyjs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://www.logolynx.com/images/logolynx/c5/c509c38cb89bcf556b2051222663f398.png" alt="NodeJs" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" alt="express" width="40" height="40"/> 
+  <img src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" alt="express" width="60" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
   
