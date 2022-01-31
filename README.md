@@ -33,37 +33,27 @@ expressJS,viteJS,swagger-autogen etc.
  
 
 <p align="center">
-  <a href="https://github.com/abderrahmenla">
     <img src="https://github-readme-stats.vercel.app/api?username=abderrahmenla&count_private=true&hide_border=true&show_icons=true" alt="abderrahmenla's github stats">
-  </a>
 </p>
 <br/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=armageddon" alt="abderrahmenla's wakatime stats">
+</p>
+
 
 ### Other technologies that I worked with:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][githubhomepage]
-
-
-[<img align="left" alt="kubenetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][githubhomepage]
-
-[<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][githubhomepage]
-
-[<img align="left" alt="ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />][githubhomepage]
-
-
-[<img align="left" alt="selenium" width="26px" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" />][githubhomepage]
-
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][githubhomepage]
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][githubhomepage]
-
-[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][githubhomepage]
-
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][githubhomepage]
-
-[<img align="left" alt="GitLab" width="26px" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" />][githubhomepage]
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][githubhomepage]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="kubenetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
+<img align="left" alt="selenium" width="26px" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="GitLab" width="26px" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
@@ -74,7 +64,6 @@ expressJS,viteJS,swagger-autogen etc.
 [linked]: https://www.linkedin.com/in/abderrahmen-lahmedi
 [twitter]: https://twitter.com/AbderrahmenLah1
 [linkedin]: https://www.linkedin.com/in/abderrahmen-lahmedi
-[githubhomepage]: https://github.com/Abderrahmenla 
 
 <!--
 **Abderrahmenla/Abderrahmenla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
