@@ -33,7 +33,7 @@ expressJS,viteJS,swagger-autogen etc.
  
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abderrahmenla&count_private=true&hide_border=true&show_icons=true" alt="abderrahmenla's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=abderrahmenla&include_all_commits=true&count_private=true&hide_border=true&show_icons=true" alt="abderrahmenla's github stats">
 </p>
 <br/>
 <p align="center">
