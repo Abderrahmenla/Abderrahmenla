@@ -42,7 +42,8 @@ expressJS,viteJS,swagger-autogen etc.
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=armageddon" alt="abderrahmenla's wakatime stats">
 </p>
-
+<br/>
+<br/>
 
 ### Other technologies that I worked with:
 
