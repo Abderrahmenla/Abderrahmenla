@@ -3,7 +3,7 @@
 My name is Abderrahmen Lahmedi, I love building and breaking through things :joy: also I'm interested in developing complex web apps :
 
 - 🔭 I’m currently working on Building large,complex,scalable and optimized web apps.
-- 🌱 I’m currently learning penetration testing on web apps
+- 🌱 Interested in penetration testing on web apps (security aspects of web applications)
 - 📫 How to reach me: abderrahmen.lahmedi@ensit.u-tunis.tn
 
 contributor to open source projects : 
