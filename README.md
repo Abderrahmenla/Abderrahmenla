@@ -1,6 +1,6 @@
 
-
-My name is Abderrahmen Lahmedi, I love building and breaking through things :joy: also I'm interested in developing complex web apps :
+<h1 align="center">Hi there <img width="45" src="waving_hand.gif" alt="hand" />, Welcome stalker! </h1>
+ My name is Abderrahmen and I love building and breaking through things :joy: also I'm interested in developing complex web apps :
 
 - 🔭 I’m currently working on developing large, complex, scalable, and optimized web apps.
 - 🌱 Interested in penetration testing on web apps (security aspects of web applications)
@@ -9,10 +9,30 @@ My name is Abderrahmen Lahmedi, I love building and breaking through things :joy
 contributor to open source projects : 
 expressJS,viteJS,swagger-autogen etc.
 
+![](https://komarev.com/ghpvc/?username=abderrahmenla&style=flat&label=PROFILE+VIEWS&color=blue)
+[![wakatime](https://wakatime.com/badge/user/172e284f-24fd-4afd-961d-6c8734d5d5dc.svg)](https://wakatime.com/@172e284f-24fd-4afd-961d-6c8734d5d5dc)
+
 ### Connect with me:
 
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+<p align ="center">
+  
+  <a href="https://wa.me/21620933337" role="whatsapp">
+  <img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
+  <a href ="https://www.upwork.com/freelancers/~014b1fd967be5fa755?viewMode=1" role="fiverr">
+  <img src="https://img.shields.io/badge/-Fiverr-14a800?style=for-the-badge&logo=Upwork&logoColor=white"/>
+  </a>
+    <a href ="https://twitter.com/AbderrahmenLah1" role="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href ="https://www.linkedin.com/in/abderrahmen-lahmedi/" role="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+   <a href ="https://www.facebook.com/abderrahmenlh/">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+</p>
 
 <br />
 
@@ -65,10 +85,30 @@ expressJS,viteJS,swagger-autogen etc.
 
 ---
 
+> **:octocat: [Github Profile Summary](https://profile-summary-for-github.com/user/abderrahmenla)**
 
-[linked]: https://www.linkedin.com/in/abderrahmen-lahmedi
-[twitter]: https://twitter.com/AbderrahmenLah1
-[linkedin]: https://www.linkedin.com/in/abderrahmen-lahmedi
+<p align="center" >
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=tokyonight_duo">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=tokyonight_duo" />
+</a>
+</p>
+
+<p align="center" >
+<a href="https://wakatime.com/@armageddon" target="\_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=armageddon&v=2&langs_count=10&custom_title=%F0%9F%92%BB%20My%20Top%2010%20%F0%9F%94%9D&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121%22%20alt=%22%F0%9F%92%BB%20My%20Top%2010%20%F0%9F%94%9D" alt="💻 My Top 10 🔝" />
+</p>
+
+<p align="center" >
+<a href="https://github-readme-stats.vercel.app/api?username=armageddon&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121">
+    <img src="https://github-readme-stats.vercel.app/api?username=armageddon&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" />
+  </a>
+</p>
+
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=armageddon&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=armageddon&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
+</a>
+</p>
 
 <!--
 **Abderrahmenla/Abderrahmenla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
