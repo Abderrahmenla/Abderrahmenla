@@ -21,7 +21,7 @@ expressJS,viteJS,swagger-autogen etc.
   </a>
   
   <a href ="https://www.upwork.com/freelancers/~014b1fd967be5fa755?viewMode=1" role="fiverr">
-  <img src="https://img.shields.io/badge/-Fiverr-14a800?style=for-the-badge&logo=Upwork&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Fiverr-14a800?style=for-the-badge&logo=Fiverr&logoColor=white"/>
   </a>
     <a href ="https://twitter.com/AbderrahmenLah1" role="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
@@ -51,18 +51,7 @@ expressJS,viteJS,swagger-autogen etc.
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
  </p>
- 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abderrahmenla&include_all_commits=true&count_private=true&hide_border=true&show_icons=true" alt="abderrahmenla's github stats">
-</p>
-<br/>
-
-
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=armageddon" alt="abderrahmenla's wakatime stats">
-</p>
 <br/>
 <br/>
 
