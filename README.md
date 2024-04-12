@@ -12,27 +12,6 @@ expressJS,viteJS,swagger-autogen etc.
 ![](https://komarev.com/ghpvc/?username=abderrahmenla&style=flat&label=PROFILE+VIEWS&color=blue)
 [![wakatime](https://wakatime.com/badge/user/172e284f-24fd-4afd-961d-6c8734d5d5dc.svg)](https://wakatime.com/@172e284f-24fd-4afd-961d-6c8734d5d5dc)
 
-### Connect with me:
-
-<p align ="center">
-  
-  <a href="https://wa.me/21620933337" role="whatsapp">
-  <img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  
-  <a href ="https://www.fiverr.com/abderrahmenlh" role="Fiverr">
-  <img src="https://img.shields.io/badge/-Fiverr-14a800?style=for-the-badge&logo=Fiverr&logoColor=white"/>
-  </a>
-    <a href ="https://twitter.com/AbderrahmenLah1" role="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href ="https://www.linkedin.com/in/abderrahmen-lahmedi/" role="LinkedIn">
-  <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-   <a href ="https://www.facebook.com/abderrahmenlh/">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-</p>
 
 <br />
 
