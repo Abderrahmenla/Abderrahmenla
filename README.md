@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on developing large, complex, scalable, and optimized web apps.
 - 🌱 Interested in penetration testing on web apps (security aspects of web applications)
-- 📫 How to reach me: contact@abderrahmenlh.com
 
 contributor to open source projects : 
 expressJS,viteJS,swagger-autogen etc.
