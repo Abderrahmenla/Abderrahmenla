@@ -20,10 +20,12 @@ expressJS,viteJS,swagger-autogen etc.
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxt" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsbyjs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" alt="NodeJs" width="80" height="40"/>
-  <img src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" alt="express" width="60" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" alt="flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="express" width="60" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21~bgwhite.svg" alt="nest" width="80" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" alt="nest" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
