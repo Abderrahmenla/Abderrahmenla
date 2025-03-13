@@ -45,9 +45,10 @@ expressJS,viteJS,swagger-autogen etc.
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitLab" width="26px" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21~bgwhite.svg" alt="google cloud" width="80" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="80" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg" alt="amazon" width="80" height="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21~bgwhite.svg" alt="google cloud" width="80" height="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="80" height="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg" alt="amazon" width="80" height="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21~bgwhite.svg" alt="amazon" width="80" height="40"/> 
 
 
 <br />
