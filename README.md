@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi There <img width="45" src="waving_hand.gif" alt="hand" />, Welcome Stalker! </h1>
-<img style="margin: auto;" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- My name is Abderrahmen and I love building and breaking through things :joy: also I'm interested in developing complex web apps :
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
+ My name is Abderrahmen, and I love building and breaking through things :joy: also I'm interested in developing complex web apps :
 
 - 🔭 I’m currently working on developing large, complex, scalable, and optimized web apps.
 - 🌱 Interested in penetration testing on web apps (security aspects of web applications)
