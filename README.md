@@ -18,11 +18,11 @@ expressJS,viteJS,swagger-autogen etc.
 <p align="center">
 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJs" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" alt="vuejs" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs" width="40" height="40"/>  
-  <img src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" alt="gatsbyjs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsbyjs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.logolynx.com/images/logolynx/c5/c509c38cb89bcf556b2051222663f398.png" alt="NodeJs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" alt="NodeJs" width="80" height="40"/>
   <img src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" alt="express" width="60" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21~bgwhite.svg" alt="nest" width="80" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" alt="nest" width="40" height="40"/> 
