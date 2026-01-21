@@ -3,13 +3,37 @@
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
- My name is Abderrahmen, and I love building and breaking through things :joy: also I'm interested in developing complex web apps :
 
-- 🔭 I’m currently working on developing large, complex, scalable, and optimized web apps.
-- 🌱 Interested in penetration testing on web apps (security aspects of web applications)
+## ⭐ Featured Production Projects (Top Repositories)
 
-contributor to open source projects : 
-expressJS,viteJS,swagger-autogen etc.
+These are real-world, production-grade systems that represent my strongest work across SaaS, fintech, and enterprise platforms.
+
+### 🚀 Cynoia
+
+Enterprise collaboration and productivity platform serving 8,000+ active users and backed by $933,000 in funding.
+
+I contributed as a full-stack engineer, migrating a monolith to microservices, designing scalable MySQL architecture, implementing caching, real-time communication, and API gateways, and delivering pixel-perfect UIs.
+
+🌐 [https://cynoia.com/](https://cynoia.com/)
+
+---
+
+### 💼 Dominion Funding
+
+Fintech affiliate and trading platform supporting 12,000+ users and generating ~$100,000 in monthly revenue.
+
+I led frontend development of the affiliate portal using Nuxt.js, Vue.js, and Tailwind, optimized performance, resolved security issues, integrated MT5 trading systems, and supported over 5,000 active affiliates.
+
+🌐 [https://dominionfunding.trade/](https://dominionfunding.trade/)
+
+---
+
+### 💳 TradeBrix
+
+Multi-tenant financial platform built for scalability, security, and compliance, serving 15,000+ traders.
+
+I architected and built the platform using React, TypeScript, tRPC, PostgreSQL, Drizzle ORM, Supabase auth, Stripe/Nuvei/Cryptochill payments, KYC via Veriff, and Dockerized infrastructure.
+
 
 ![](https://komarev.com/ghpvc/?username=abderrahmenla&style=flat&label=PROFILE+VIEWS&color=blue)
 [![wakatime](https://wakatime.com/badge/user/172e284f-24fd-4afd-961d-6c8734d5d5dc.svg)](https://wakatime.com/@172e284f-24fd-4afd-961d-6c8734d5d5dc)
