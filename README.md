@@ -35,6 +35,10 @@ Multi-tenant financial platform built for scalability, security, and compliance,
 I architected and built the platform using React, TypeScript, tRPC, PostgreSQL, Drizzle ORM, Supabase auth, Stripe/Nuvei/Cryptochill payments, KYC via Veriff, and Dockerized infrastructure.
 
 
+🌐 [https://tradebrix.io/](https://tradebrix.io/)
+
+
+
 ![](https://komarev.com/ghpvc/?username=abderrahmenla&style=flat&label=PROFILE+VIEWS&color=blue)
 [![wakatime](https://wakatime.com/badge/user/172e284f-24fd-4afd-961d-6c8734d5d5dc.svg)](https://wakatime.com/@172e284f-24fd-4afd-961d-6c8734d5d5dc)
 
