@@ -30,7 +30,7 @@ I led frontend development of the affiliate portal using Nuxt.js, Vue.js, and Ta
 
 ### 💳 TradeBrix
 
-Multi-tenant financial platform built for scalability, security, and compliance, serving 15,000+ traders.
+Multi-tenant financial platform built for scalability, security, and compliance, serving 45,000+ traders.
 
 I architected and built the platform using React, TypeScript, tRPC, PostgreSQL, Drizzle ORM, Supabase auth, Stripe/Nuvei/Cryptochill payments, KYC via Veriff, and Dockerized infrastructure.
 
